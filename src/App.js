@@ -15,7 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+<<<<<<< Updated upstream
           Learn React
+=======
+          new feature
+>>>>>>> Stashed changes
         </a>
       </header>
     </div>
